@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Please click "view on github" to access the code for the following listed projects
 
-You can use the [editor on GitHub](https://github.com/sowmya2790/Machine-Learning/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Room8- Find Potential users for the app from Soial media
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1) Used Data Scraping to mine users from twitter, facebook and craigs list based on hashtag search. (#roomwanted #roommate etc.,)
+2) Users were then clustered using K means clustering
+3) Calculated similarity indexes and Using CVxpy solver (Gurobi works too), matched the users to the one with the least distance using Linear optimisation 
 
-### Markdown
+### Kaggle - Airline Customer Classification
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1) Performed classification on a Kaggle dataset using R.
+2) with the results and with some more correlation analysis, suggested marketing strategies for customer retention
 
-```markdown
-Syntax highlighted code block
+### Kaggle- House Price Regression
 
-# Header 1
-## Header 2
-### Header 3
+1)Feature engineering
+2)House Price Prediction with better accuracy
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sowmya2790/Machine-Learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
