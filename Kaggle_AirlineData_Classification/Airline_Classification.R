@@ -2,7 +2,7 @@
 #invistico airline survey (https://www.kaggle.com/sjleshrac/airlines-customer-satisfaction)
 
 #data import
-data=read.csv("C:/Users/Pzhu7/Desktop/MKT591/Invistico_Airline.csv",header=TRUE)
+data=read.csv("Invistico_Airline.csv",header=TRUE)
 dim(data)
 head(data)
 
@@ -121,7 +121,7 @@ head(test)
 ################################################
 library(cluster)
 #read train_project.csv
-train=read.csv("C:/Users/Pzhu7/Desktop/MKT591/train_project3.csv",header=TRUE)
+train=read.csv("train_project3.csv",header=TRUE)
 head(train)
 dim(train)
 
@@ -164,10 +164,10 @@ plotcluster(cluster_train, kmeans$cluster)
 ################################################
 
 #read train_project.csv
-train=read.csv("C:/Users/Pzhu7/Desktop/MKT591/train_project3.csv",header=TRUE)
+train=read.csv("train_project3.csv",header=TRUE)
 head(train)
 dim(train)
-test=read.csv("C:/Users/Pzhu7/Desktop/MKT591/test_project3.csv",header=TRUE)
+test=read.csv("test_project3.csv",header=TRUE)
 test_target=as.factor(test[,1])
 test1=test[,-1]#remove target column
 dim(test)
