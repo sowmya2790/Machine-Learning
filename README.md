@@ -18,7 +18,7 @@ Please click "view on github" to access the code files for the following listed 
 1. Using various Classification models
 2. Testing different Hyper parameter methods
 3. Accuracy comparison 
-4. [Output & Analysis Presentation Link](https://github.com/sowmya2790/Machine-Learning/blob/25e1bca06e8dcae87fc47723775e9ee8c038de08/Output%20files/Classification%20and%20Hyperparameter%20tuning.pdf))
+4. [Output & Analysis Presentation Link](https://github.com/sowmya2790/Machine-Learning/blob/25e1bca06e8dcae87fc47723775e9ee8c038de08/Output%20files/Classification%20and%20Hyperparameter%20tuning.pdf)
 
 ### 4) [Kaggle- Home Site Quote Conversion](https://github.com/sowmya2790/Machine-Learning/tree/main/Home-Site%20Quote%20Conversion)
 
