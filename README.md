@@ -22,9 +22,9 @@ Please click "view on github" to access the code files for the following listed 
 
 ### 4) [Kaggle- Home Site Quote Conversion](https://github.com/sowmya2790/Machine-Learning/tree/main/Home-Site%20Quote%20Conversion)
 
-1.Using SMOTE+Stacking 
-2.House Price Prediction with better accuracy
-3.[Output & Analysis Presentation Link](https://github.com/sowmya2790/Machine-Learning/blob/94a5b8cc3e049289f49a01bc88722ce7b21fa088/Output%20files/Homesite%20Quote.pdf)
+1. Using SMOTE+Stacking 
+2. House Price Prediction with better accuracy
+3. [Output & Analysis Presentation Link](https://github.com/sowmya2790/Machine-Learning/blob/94a5b8cc3e049289f49a01bc88722ce7b21fa088/Output%20files/Homesite%20Quote.pdf)
 
 ### 5) [Classifiers and Stacking](https://github.com/sowmya2790/Machine-Learning/tree/main/Stacking)
 1. Perform Classification using Random Forest, Decision tree, MLP and gradient boosting
