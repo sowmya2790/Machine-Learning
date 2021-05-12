@@ -1,4 +1,3 @@
-Please click "view on github" to access the code files for the following listed projects
 
 ### 1) [Room8- Find Potential users for the app from Social media](https://github.com/sowmya2790/Machine-Learning/tree/main/RoomMate%20Matching)
 
