@@ -16,11 +16,11 @@ Please click "view on github" to access the code files for the following listed 
 1)Feature engineering
 2)House Price Prediction with better accuracy
 
-### 3) Insurance Fraud Detection
+### 3) Insurance Fraud Detection and Portugese Bank Bad Credit 
 
-1)Feature engineering
-2)Hyper parameter tuning comparison
-3)Fraud Detection
+1 Classification methods
+2)Hyper parameter tuning 
+3)Accuracy comparison ([powerpoint link](https://github.com/sowmya2790/Machine-Learning/blob/25e1bca06e8dcae87fc47723775e9ee8c038de08/Output%20files/Classification%20and%20Hyperparameter%20tuning.pdf))
 
 ### 4) Classifiers and Stacking
 1)Perform Classification using Random Forest, Decision tree, MLP and gradient boosting
